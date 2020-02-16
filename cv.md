@@ -28,3 +28,14 @@
 
 ## Experience
 I have more than two years of commercial programming experience.
+
+## Education
+**Main:**
++ Minsk College of Business
+
+**Online:**
++ HTML Academy
++ Freecodecamp
+
+## English
+B1

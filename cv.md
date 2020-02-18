@@ -49,4 +49,5 @@ Belarusian State University of Informatics and Radioelectronics| Bachelor's degr
 + Freecodecamp
 
 ## English
-B1
+I have been studying English since first grade at school. After school, I had one year of English in college and one year at university. In addition, in 2017, I completed English courses at EnglishPapa specializing in IT English. I had some practice when I traveled to Canada and lived there for two months in the summer of 2017. Now I practice my English on online platforms such as duolingo, lingualeo, puzzle-english.com
+I have B1 level of English.

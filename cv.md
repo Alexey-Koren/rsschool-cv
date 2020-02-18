@@ -38,6 +38,7 @@ I have more than two years of commercial programming experience.
 
 ## Education
 **Main:**
+
 Education institution name | Degree | Field of study | Qualification | Start Year | End Year (or expected)
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 Minsk College of Business | Specialist degree | Information technology software | Software technician | 2012 | 2016

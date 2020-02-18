@@ -16,15 +16,22 @@
 
 ## Skills
 **Programming languages**
++ JavaScript
++ C#
++ SQL
+
+**Frameworks**
++ React
++ Angular
+
+**Tools & Technologies**
 + HTML5
 + CSS3
-+ JavaScript
-+ React
-+ SQL
 + MySQL
-
-**Version control**
-+ git
++ AJAX
++ JSON
++ jQuery
++ Git
 
 ## Experience
 I have more than two years of commercial programming experience.

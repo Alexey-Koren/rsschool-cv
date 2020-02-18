@@ -12,7 +12,7 @@
 
 **Phone number:** +375 (29) 138-33-03
 
-**Linkedin:**[link](https://www.linkedin.com/in/alexey-koren/)
+**Linkedin:** [link](https://www.linkedin.com/in/alexey-koren/)
 
 ## Skills
 **Programming languages**
@@ -39,6 +39,10 @@ I have more than two years of commercial programming experience.
 ## Education
 **Main:**
 + Minsk College of Business
+Education institution name | Degree | Field of study | Qualification | Start Year | End Year (or expected)
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+Minsk College of Business | Specialist degree | Information technology software | Software technician | 2012 | 2016
+Belarusian State University of Informatics and Radioelectronics| Bachelor's degree | Information technology software | Software engineer | 2016 | 2021
 
 **Online:**
 + HTML Academy

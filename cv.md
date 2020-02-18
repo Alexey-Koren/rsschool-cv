@@ -34,6 +34,7 @@
 + Git
 
 ## Experience
+I worked as a web developer for a year. Where I developed adaptive and cross browser layouts, websites, landing pages, responsive themes for WordPress. Various custom work. Also, I worked as a front-end developer for a year. I was involved in web development of various projects and SPA development for different clients.
 I have more than two years of commercial programming experience.
 
 ## Education

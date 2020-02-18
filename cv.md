@@ -1,18 +1,16 @@
 # Resume
-
 **First name:** Alexey
-
 **Last Name:**  Koren
-
 **Sex:** Male
-
 **Age:** 22
 
 ## Contact info
-
 **Phone number:** +375 (29) 138-33-03
-
 **Linkedin:** [link](https://www.linkedin.com/in/alexey-koren/)
+
+## Summary
+Now I'm free for a new opportunities. So I decided to take courses to test myself and my knowledge. To exclude possible spaces, learn something new. And find new connections.
+Every day I'm learning information related to Frond-end, i'm practicing and coding.
 
 ## Skills
 **Programming languages**
@@ -50,5 +48,5 @@ Belarusian State University of Informatics and Radioelectronics| Bachelor's degr
 + Freecodecamp
 
 ## English
-I have been studying English since first grade at school. After school, I had one year of English in college and one year at university. In addition, in 2017, I completed English courses at EnglishPapa specializing in IT English. I had some practice when I traveled to Canada and lived there for two months in the summer of 2017. Now I practice my English on online platforms such as duolingo, lingualeo, puzzle-english.com
+I have been studying English since first grade at school. After school, I had one year of English in college and one year at university. In addition, in 2017, I completed English courses at EnglishPapa specializing in IT English. I had some practice when I traveled to Canada and lived there for two months in the summer of 2017. Now I practice my English on online platforms such as duolingo, lingualeo, puzzle-english.com.
 I have B1 level of English.

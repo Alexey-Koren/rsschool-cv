@@ -1,11 +1,17 @@
 # Resume
+
 **First name:** Alexey
+
 **Last Name:**  Koren
+
 **Sex:** Male
+
 **Age:** 22
 
 ## Contact info
+
 **Phone number:** +375 (29) 138-33-03
+
 **Linkedin:** [link](https://www.linkedin.com/in/alexey-koren/)
 
 ## Summary

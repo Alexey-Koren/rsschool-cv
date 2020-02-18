@@ -12,7 +12,7 @@
 
 **Phone number:** +375 (29) 138-33-03
 
-**Linkedin:** https://www.linkedin.com/in/alexey-koren/
+[**Linkedin:**](https://www.linkedin.com/in/alexey-koren/)
 
 ## Skills
 **Programming languages**

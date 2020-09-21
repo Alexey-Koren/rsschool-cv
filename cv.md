@@ -21,20 +21,16 @@ Every day I'm learning information related to Frond-end, i'm practicing and codi
 ## Skills
 **Programming languages**
 + JavaScript
-+ C#
++ Typescript
 + SQL
 
 **Frameworks**
 + React
-+ Angular
 
 **Tools & Technologies**
 + HTML5
 + CSS3
 + MySQL
-+ AJAX
-+ JSON
-+ jQuery
 + Git
 
 ## Experience

@@ -1,1 +1,5 @@
-[rsschool-cv](https://alexey-koren.github.io/rsschool-cv/cv)
+### RSSchool CV
+
+- [Markdown](https://alexey-koran.github.io/rsschool-cv/cv)
+
+- [HTML&CSS](https://alexey-koran.github.io/rsschool-cv/)

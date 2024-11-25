@@ -37,8 +37,20 @@ th, tr, td {
   padding: 6px 13px;
 }
 
-.resume, .contacts, .summary, .skills, .experience, .education, .english {
-  margin-top: 60px;
+a {
+  display: flex;
+}
+
+a:has(+a) {
+  margin-right: 10px;
+}
+
+.links {
+  display: flex;
+}
+
+.resume, .contacts, .summary, .education {
+  margin-top: 20px;
 }
 
 .page {
